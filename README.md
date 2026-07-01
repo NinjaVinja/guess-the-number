@@ -24,6 +24,7 @@ A simple command-line **Number Guessing Game** built in Python. The program rand
 number-guessing-game-python/
 │
 ├── main.py          # Main game logic
+├── art.py          # ascii art logo's
 └── README.md         # Project documentation
 ```
 
